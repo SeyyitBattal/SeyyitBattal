@@ -40,6 +40,8 @@ jobs:
       # Push the changes
       - name: Push changes
         uses: ad-m/github-push-action@master
+          run: |
+    git push origin master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: master
