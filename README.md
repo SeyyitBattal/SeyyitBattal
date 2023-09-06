@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Seyyit Battal Arvas</h1>
 <h3 align="center">< Full Stack Developer /></h3>
 
-<img align="right" alt="Coding" width="350" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
+<img align="left" alt="Coding" width="350" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
 
 - 🌱 I’m currently learning **Frontend and Backend**
 
