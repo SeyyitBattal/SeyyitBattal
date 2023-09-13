@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Frontend and Backend**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SeyyitBattal?tab=repositories)
+- 👨‍💻 All of my projects are available at https://github.com/SeyyitBattal?tab=repositories
 
 - 📫 How to reach me **seyyitbattalarvas3@gmail.com**
 
