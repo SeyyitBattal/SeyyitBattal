@@ -9,7 +9,7 @@
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
 
 ****
-- 🔭 I’m currently working on **Fronted projects**
+- 🔭 I’m currently working on **Backend projects (Java)**
 
 - 🌱 I’m currently learning **Frontend and Backend**
 
