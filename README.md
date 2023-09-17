@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Seyyit Battal Arvas</h1>
+<h1 align="center">Seyyit Battal Arvas</h1>
 <h3 align="center">< Full Stack Developer /></h3>
 
 
