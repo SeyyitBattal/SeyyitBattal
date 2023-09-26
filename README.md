@@ -1,6 +1,6 @@
 <h1 align="center">Seyyit Battal Arvas</h1>
 <h3 align="center">< Full Stack Developer /></h3>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=34C25D&width=435&lines=%3C+Software+Developer+%3E" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=34C25D&center=true&vCenter=true&width=435&lines=%3C+Software+Developer+%3E" alt="Typing SVG" /></a>
 
 
 
