@@ -6,8 +6,9 @@
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
 
 ****
-- 🔭 I’m currently working on **Backend projects (Java-Spring)**
-- 🔭 I’m currently working on **Frontend projects (JavScript-Ecommerce)**
+- 🔭 I’m currently working on:
+- -> **Backend projects (Java-Spring)** <-
+- -> **Frontend projects (JavScript-Ecommerce)** <-
 
 - 🌱 I’m currently learning **Frontend and Backend**
 
