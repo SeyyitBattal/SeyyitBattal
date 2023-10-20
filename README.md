@@ -7,7 +7,7 @@
 
 ****
 - 🔭 I’m currently working on:
-   * -> **Backend projects (Java-Spring)** <- 
+   * -> **Backend projects (Java-SQL)** <- 
    * -> **Frontend projects (JavScript-Ecommerce)** <- 
 
 - 🌱 I’m currently learning **Frontend and Backend**
