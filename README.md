@@ -9,6 +9,7 @@
 - 🔭 I’m currently working on:
    * ->  *Backend projects [ Java - Spring - SQL ]*  <- 
    * ->  *Frontend project [ JavScript - Ecommerce ]*  <-
+     
 Frontend project link: https://github.com/SeyyitBattal/E-Commerce-Project/tree/main/e-commerce
 
 - 🌱 I’m currently learning **Frontend and Backend**
