@@ -7,8 +7,8 @@
 
 ****
 - 🔭 I’m currently working on:
-   * ->  *Backend projects [ Java - Spring - SQL ]*  <- 
-   * ->  *Frontend project [ JavScript - Ecommerce ]*  <-
+   * ->  *Backend projects [ Java: Spring - SQL ]*  <- 
+   * ->  *Frontend project [ JavScript: Ecommerce ]*  <-
      
 
 - 🌱 I’m currently learning **Frontend and Backend**
