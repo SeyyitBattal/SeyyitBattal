@@ -9,8 +9,7 @@
 - 🔭 I’m currently working on:
    * ->  *Backend projects [ Java: Spring - SQL ]*  <- 
    * ->  *Frontend project [ JavScript: Ecommerce ]*  <-
-   * 👨‍💻 My Ecommerce project is available at >>>
-     ** https://my-new-style.vercel.app/ **
+   *  * https://my-new-style.vercel.app/ 
      
 
 - 🌱 I’m currently learning **Frontend and Backend**
