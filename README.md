@@ -20,7 +20,7 @@
 
 ****
 
-<h3 align="center">My Profiles:</h3>
+<h3 align="center">You can find me on there:</h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/seyyit-battal-arvas-aaa86b110/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seyyit battal arvas" height="28" width="40" /></a>
