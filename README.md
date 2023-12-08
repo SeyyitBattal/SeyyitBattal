@@ -12,8 +12,6 @@
    *  * _Project Link: https://this-my-new-style.onrender.com/_
       * _Project Link: https://my-new-style.vercel.app/_
 
-- 🌱 I’m currently learning **Frontend and Backend**
-
 - 👨‍💻 All of my projects are available at >>> https://github.com/SeyyitBattal?tab=repositories
 
 - 📫 How to reach me **seyyitbattalarvas3@gmail.com**
