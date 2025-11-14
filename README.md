@@ -8,8 +8,8 @@
 
 ****
 - 🔭 I’m currently working on:
-   * ->  *Backend projects [ Java: Spring - SQL ]*  <- 
-   * ->  *Frontend project [ JavScript: Ecommerce ]*  <-
+   * ->  *Backend projects [ Java: Spring Boot - SQL ]*  <- 
+   * ->  *Frontend project [ Angular + React ]*  <-
    *  * _Project Link: https://this-my-new-style.onrender.com/_
       * _Project Link: https://my-new-style.vercel.app/_
 
