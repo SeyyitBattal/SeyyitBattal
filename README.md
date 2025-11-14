@@ -51,7 +51,3 @@ __________________________________________________________________________
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=seyyitbattal&show_icons=true&locale=en&layout=compact" alt="seyyitbattal" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seyyitbattal&show_icons=true&locale=en" alt="seyyitbattal" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seyyitbattal&" alt="seyyitbattal" /></p>
-
