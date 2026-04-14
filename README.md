@@ -1,4 +1,4 @@
-<h1 align="center">Seyyit Battal Arvas</h1>
+<h1 align="center">Seyyit Battal ARVAS</h1>
 
 
 
@@ -7,11 +7,9 @@
 
 
 ****
-- 🔭 I’m currently working on:
-   * ->  *Backend projects [ Java: Spring Boot - SQL ]*  <- 
-   * ->  *Frontend project [ Angular + React ]*  <-
-   *  * _Project Link: https://this-my-new-style.onrender.com/_
-      * _Project Link: https://my-new-style.vercel.app/_
+- 🔭 I’m working on:
+   * ->  *Backend [ Java Spring Boot + SQL ]*  <- 
+   * ->  *Frontend [ Angular + React ]*  <-
 
 - 👨‍💻 All of my projects are available at >>> https://github.com/SeyyitBattal?tab=repositories
 
