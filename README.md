@@ -8,8 +8,8 @@
 
 ****
 - 🔭 I’m working on:
-   * ->  *Backend [ Java Spring Boot + SQL ]*  <- 
-   * ->  *Frontend [ Angular + React ]*  <-
+   * *Backend [ Java Spring Boot + SQL ]* 
+   * *Frontend [ Angular + React ]*
 
 - 👨‍💻 All of my projects are available at >>> https://github.com/SeyyitBattal?tab=repositories
 
